@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.topnav {
+  list-style-type: none;
+  margin-top: 0px;
+  overflow: hidden;
+  background-color: #ffffff;
+  width: 100%;
+}
+
+.topnav li {
+  float:left;
+  padding: 30px;                
+}
+.topnav a {
+  color: #815e77;
+  text-align: center;
+  display:block;
+  text-decoration: none; 
+  font-family: 'Georgia';
+	font-size: 20px; 
+}
+
+
+.topnav a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+*{
+  box-sizing: border-box;
+} 
+
+body {			
+  background-color: #ffffff;
+  background-size: cover; 
+  background-size: 100% 100%;
+  margin: 0%;			
+  }
+
+h1 {
+    position: center;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+    color: #250d0f;
+}
+h2{
+  position: center;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    color: #180033;
+    padding-left:50px;
+    padding-right: 50px;
+}
+
+.googleForm {
+    text-align:center;
+}
+
+.video {
+    text-align:center;
+}
+
+h3 {
+    text-align:center;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
+
+.fancyList {
+    list-style-type:none;
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    color: #180033;
+}
+footer{
+  font-family: 'Georgia';
+  padding-left: 0;
+  padding-bottom: 30px;
+  padding-top: 30px;  
+  width: 100%;
+  background-color: #ffffff;
+  color: #815e77;
+  text-align: center;
+  
+}
+a:link{
+  color: #815e77;
+  text-decoration: none;
+}
+a:hover{
+  color:black;
+  text-decoration: none;
+}
+a:visited{
+  color:#815e77;
+  text-decoration: none;
+}
+a:visited:hover{
+  color:black;
+  text-decoration: none;
+}
+.jobs{
+  float: left;
+  list-style-type:none;
+  font-size: 35px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #180033;
+  padding-left: 300px;
+  padding-bottom: 30px;
+}
